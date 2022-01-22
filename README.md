@@ -1,5 +1,7 @@
 ## Hello👋
 
+![](https://komarev.com/ghpvc/?username=Bryonb88&label=Visits&color=6BC9FA&style=plastic)
+
 ### My name is Bryon Beaufait
 
 I am currently a student :man_student: studying Interface Design and Web Development.  
@@ -11,8 +13,13 @@ Suggestions are always welcome!
 
 - I’m currently working on ... JavaScript
 - My first webpage ... [Click me](https://about-me-bryonb88.netlify.app/)
-- 💬 Ask me about ... Recipe r0ecommendations 
+- Ask me about ... Recipe r0ecommendations 
 - Hobbies ... I enjoy traveling :airplane:, photography :camera:, coooking :knife:, reading :book: and video games :video_game:
-- :email: How to reach me: ... <a href="mailto:beaufaitb@gmail.com">Email</a>
-- 😄 Socials: ...  [Instagram](https://www.instagram.com/bryon_beaufait/)
-- :brain: Fun fact: ... The world's first animated feature film, El Apóstol, was made in Argentina
+- How to reach me: ... <a href="mailto:beaufaitb@gmail.com">Email</a>
+- Socials: ...  [Instagram](https://www.instagram.com/bryon_beaufait/)
+- Fun fact: ... The world's first animated feature film, El Apóstol, was made in Argentina
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryonb88&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryonb88&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bryonb88&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
