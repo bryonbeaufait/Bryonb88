@@ -13,7 +13,7 @@ Suggestions are always welcome!
 
 - I’m currently working on ... JavaScript
 - My first webpage ... [Click me](https://about-me-bryonb88.netlify.app/)
-- Ask me about ... Recipe r0ecommendations 
+- Ask me about ... Recipe reecommendations 
 - Hobbies ... I enjoy traveling :airplane:, photography :camera:, coooking :knife:, reading :book: and video games :video_game:
 - How to reach me: ... <a href="mailto:beaufaitb@gmail.com">Email</a>
 - Socials: ...  [Instagram](https://www.instagram.com/bryon_beaufait/)
